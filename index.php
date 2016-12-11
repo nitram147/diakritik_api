@@ -1,5 +1,9 @@
 <?php
-
+/* +----------------------------------+ */
+/* |          Diakritik_api           | */
+/* |            index.php             | */
+/* |   (c)copyright 2016 nitram147    | */
+/* +----------------------------------+ */
 if(empty($_POST) && empty($_GET)){
 	echo '
 			<html>
